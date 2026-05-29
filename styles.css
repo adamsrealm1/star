@@ -1,10 +1,10 @@
 /* Main edit points: change these variables to adjust the whole site. */
 :root {
-  --bg: #05070d;
-  --panel: #0b1220;
-  --panel-soft: rgba(11, 18, 32, 0.78);
+  --bg: #252d46;
+  --panel: #071d4a;
+  --panel-soft: rgba(52, 69, 105, 0.78);
   --border: rgba(83, 210, 255, 0.2);
-  --border-strong: rgba(83, 210, 255, 0.44);
+  --border-strong: rgba(0, 0, 0, 0.44);
   --text: #eef7ff;
   --muted: #9fb1c5;
   --accent: #53d2ff;
