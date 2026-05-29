@@ -196,7 +196,7 @@ function createEnterScreen() {
   enterScreen.className = "enter-screen";
   enterButton.className = "enter-screen__button";
   enterButton.type = "button";
-  enterButton.innerHTML = "Welcome<br>Click to Enter";
+  enterButton.innerHTML = "click me :)";
 
   enterScreen.appendChild(enterButton);
   document.body.appendChild(enterScreen);
